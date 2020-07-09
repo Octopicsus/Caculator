@@ -1,0 +1,13 @@
+@import "reset";
+@import "fonts";
+@import "base";
+@import "vars";
+body {
+    display: flex;
+    background: black;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+}
